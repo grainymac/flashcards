@@ -4,7 +4,6 @@
 ## Table of Contents
   - [Introduction](#introduction)
   - [Technologies](#technologies)
-  - [Features](#features)
   - [Deployed Page](#deployed-page)
   - [Possible Future Extensions](#possible-future-extensions)
   - [Set Up](#set-up)
@@ -20,12 +19,6 @@
   - Javascript
   - Mocha/Chai
   - CLI
-
-
-## Features
-- Charts that show sleep, hydration, and step info.
-- Card that welcomes user.
-- Card that displays user info.
 
 
 ## Deployed Page
