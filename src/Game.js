@@ -22,6 +22,7 @@ class Game {
     this.cards = questions.map(({id, question, answers, correctAnswer}) => {
       return new Card(id, question, answers, correctAnswer);
     })
+
     this.deck = new Deck(this.cards);
     this.round = new Round(this.deck);
     this.printMessage(this.deck, this.round);
