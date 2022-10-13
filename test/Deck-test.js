@@ -18,8 +18,8 @@ describe('Deck', () => {
         expect(deck).to.be.an.instanceOf(Deck);
     });
 
-    it('hould know how many Cards are in the Deck', () => {
+    it('should know how many Cards are in the Deck', () => {
         let cardCount = deck.countCards();
         expect(cardCount).to.deep.equal(deck.cards.length);
-    })
+    });
 });

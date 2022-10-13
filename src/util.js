@@ -42,4 +42,45 @@ async function main(round) {
     }
 }
 
+//-----------------------------------------
+// const genGameChoice = () => {
+//   return {
+//     type: 'rawlist',
+//     message: 'Which game would you like to play? Select game and press ENTER',
+//     name: 'answers',
+//     choices: ['original game', 'extra game']
+//   };
+// }
+
+// const getGameChoice = () => {
+//   return Promise.resolve('pizza');
+// }
+
+// async function gameType() {
+//   // inquirer
+//   // .prompt([
+//   //   {
+//   //     name: "user_name",
+//   //     type: "input",
+//   //     message: "What is your name?",
+//   //   },
+//   // ])
+//   // .then((answer) => {
+//   //   console.log("Hello " + answer.user_name);
+//   //   return answer.user_name
+
+//   //   //have bread and butter here but need need to cook my way to the full course on Game.js
+//   // });
+//   // const gameChoice = await getGameChoice();
+//   // const getAnswer = await inquirer.prompt(genGameChoice());
+//   // const getConfirm = await inquirer.prompt(confirmUpdate(getAnswer.answers, round));
+
+//     // if(!round.returnCurrentCard()) {
+//     //   round.endRound();
+//     // } else {
+//     //   main(round);
+//     // }
+// }
+
 module.exports.main = main;
+// module.exports.gameType = gameType;
