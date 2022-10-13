@@ -31,8 +31,18 @@ class Round {
     }
 
     endRound() {
-        const endRoundMessage = `** Round over! ** You answered ${this.percentage} of the questions correctly!`;
+        const Game = require("./Game");
+        let game = new Game();
+        let gameStart = game.start();
+        const endRoundMessage = `** Round over! ** You answered ${this.percentage}% of the questions correctly!`;
+        const morePractice = `** You need more practice!! ** You scored ${this.percentage}%.  Go over the flashcards again!`
+        if (this.percentage < 90) {
+            console.log(morePractice)
+            return gameStart;
+        } else {
+        console.log(endRoundMessage);
         return endRoundMessage;
+        }
     }
 };
 module.exports = Round;
