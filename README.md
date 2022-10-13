@@ -14,7 +14,7 @@
 ## Introduction
   - The purpose of this project was to write a program to simulate a set of flashcards through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
 
-![Screen Shot 2022-10-13 at 10 18 12 AM](https://user-images.githubusercontent.com/106535343/195637296-f0838805-5f61-4234-a4e9-e53083c516ce.png)
+![Screen Shot 2022-10-13 at 10 38 22 AM](https://user-images.githubusercontent.com/106535343/195642022-a7b831ee-a5fc-4e2f-b3dd-3806efcd265b.png)
 
 ## Technologies
   - Javascript
@@ -29,7 +29,7 @@
 
 
 ## Deployed Page
-Visit our published Hang In There Site! [here]()
+[here]()
 
 
 ## Possible Future Extensions
