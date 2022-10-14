@@ -5,6 +5,7 @@
   - [Introduction](#introduction)
   - [Technologies](#technologies)
   - [Deployed Page](#deployed-page)
+  - [Features](#features)
   - [Possible Future Extensions](#possible-future-extensions)
   - [Set Up](#set-up)
   - [Project Specs](#project-specs)
@@ -15,7 +16,6 @@
 
 ![Screen_Recording_2022-10-13_at_5_49_25_PM_AdobeExpress](https://user-images.githubusercontent.com/106535343/195725289-53041eb6-93c1-40d0-b83e-4237d04048cc.gif)
 
-![Screen Shot 2022-10-13 at 10 38 22 AM](https://user-images.githubusercontent.com/106535343/195642022-a7b831ee-a5fc-4e2f-b3dd-3806efcd265b.png)
 
 ## Technologies
   - Javascript
@@ -25,6 +25,11 @@
 
 ## Deployed Page
 [here]()
+
+
+## Features
+  - More Practice extension
+  - Project Trello Board [here] (https://trello.com/invite/b/ZqFqGgm2/f30d013e2b78a9374da61d2f286231d0/flashcards)
 
 
 ## Possible Future Extensions
