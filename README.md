@@ -29,7 +29,7 @@
 
 ## Features
   - More Practice extension
-  - Project Trello Board [here] (https://trello.com/invite/b/ZqFqGgm2/f30d013e2b78a9374da61d2f286231d0/flashcards)
+  - Project Trello Board [here](https://trello.com/invite/b/ZqFqGgm2/f30d013e2b78a9374da61d2f286231d0/flashcards)
 
 
 ## Possible Future Extensions
